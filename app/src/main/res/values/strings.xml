@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RumahDamai</string>
+    <string name="friends_name">Nama Teman</string>
+    <string name="about">About</string>
+    <string name="alamat">Alamat</string>
+    <string name="nisn">Nisn</string>
+    <string name="universitas">Universitas</string>
+</resources>
